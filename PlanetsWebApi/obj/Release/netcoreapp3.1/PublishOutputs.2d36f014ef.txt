@@ -1,0 +1,7 @@
+C:\Users\gdlcamay\source\repos\PlanetsWebApi\PlanetsWebApi\obj\Release\netcoreapp3.1\PubTmp\Out\PlanetsWebApi.exe
+C:\Users\gdlcamay\source\repos\PlanetsWebApi\PlanetsWebApi\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+C:\Users\gdlcamay\source\repos\PlanetsWebApi\PlanetsWebApi\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+C:\Users\gdlcamay\source\repos\PlanetsWebApi\PlanetsWebApi\obj\Release\netcoreapp3.1\PubTmp\Out\PlanetsWebApi.dll
+C:\Users\gdlcamay\source\repos\PlanetsWebApi\PlanetsWebApi\obj\Release\netcoreapp3.1\PubTmp\Out\PlanetsWebApi.deps.json
+C:\Users\gdlcamay\source\repos\PlanetsWebApi\PlanetsWebApi\obj\Release\netcoreapp3.1\PubTmp\Out\PlanetsWebApi.runtimeconfig.json
+C:\Users\gdlcamay\source\repos\PlanetsWebApi\PlanetsWebApi\obj\Release\netcoreapp3.1\PubTmp\Out\PlanetsWebApi.pdb

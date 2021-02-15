@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA5PXqJvmSUkyKiv0lgkwVowAAAAACAAAAAAADZgAAwAAAABAAAABibXKRVcz5YV6kmaS+NOpnAAAAAASAAACgAAAAEAAAAOryFnfrafAuF1IR+FuHlBwYAAAALZK65Yb3a/8WJi6inD2/KXYKZZtrDPJcFAAAAHlcZGgm2QZK/pCG3GfjCuVIaqog</EncryptedPassword>
+    <_PublishTargetUrl>ftp://tunnygames.com/</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="appsettings.Development.json">
+      <publishTime>02/13/2021 16:39:52</publishTime>
+    </File>
+    <File Include="appsettings.json">
+      <publishTime>02/13/2021 16:39:52</publishTime>
+    </File>
+    <File Include="PlanetsWebApi.deps.json">
+      <publishTime>02/14/2021 00:07:45</publishTime>
+    </File>
+    <File Include="PlanetsWebApi.dll">
+      <publishTime>02/14/2021 00:07:44</publishTime>
+    </File>
+    <File Include="PlanetsWebApi.exe">
+      <publishTime>02/14/2021 00:07:44</publishTime>
+    </File>
+    <File Include="PlanetsWebApi.pdb">
+      <publishTime>02/14/2021 00:07:44</publishTime>
+    </File>
+    <File Include="PlanetsWebApi.runtimeconfig.json">
+      <publishTime>02/14/2021 00:07:45</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>02/14/2021 00:07:48</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
